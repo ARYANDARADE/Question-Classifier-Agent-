@@ -1,0 +1,9 @@
+agno
+duckduckgo-search
+tavily-python
+easyocr 
+asyncio
+groq
+python-dotenv
+pandas
+streamlit
